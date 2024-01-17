@@ -12,5 +12,7 @@ public class Testcase {
 		   System.out.println("Hi");
 		   System.out.println("Hi two times");
 
+		   System.out.println("bye");
+
 	   }
 }

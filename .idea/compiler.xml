@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RESTAssured_Practice" />
+        <module name="GitPractice" />
       </profile>
     </annotationProcessing>
   </component>
