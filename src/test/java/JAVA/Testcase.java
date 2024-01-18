@@ -13,6 +13,8 @@ public class Testcase {
 		   System.out.println("Hi two times");
 
 		   System.out.println("bye");
+		   System.out.println("good ");
+		   System.out.println("morng");
 
 	   }
 }
